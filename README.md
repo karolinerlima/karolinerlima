@@ -1,8 +1,8 @@
 <h1> Olá !! Eu sou a Karoline Lima 👩‍💻</h1>
 <div align="center">
   <a href="https://github.com/karolinerlima">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=karolinerlima&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinerlima&layout=compact&langs_count=7&theme=bear"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karolinerlima&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinerlima&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
 <div style="display: inline_block"><br>
